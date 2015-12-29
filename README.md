@@ -6,12 +6,11 @@
 
 最優秀賞・コロプラ賞・アカツキ賞を受賞
 
-つくったひと
+## つくったひと
+* yuki
+* tomioka
+* phone
+* hibino
 
-・yuki
-
-・tomioka
-
-・phone
-
-・hibino
+## 公開場所
+https://misw.github.io/TestThrow
